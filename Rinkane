@@ -3,10 +3,26 @@
    "description":"Kaku Meguru is a normal high school student, except for dreaming of a previous life. One day, a transfer student, Kongouchi Kotarou, arrives at an unusual time of year. Meguru has finally reunited with a friend from his previous life, who he thought he would never be able to see again, but something about Kotaro friend seems a bit off...?",
    "artist":"Tokemichi",
    "author":"Tokemichi",
-   "cover":"https://i.imgur.com/uvMWva9.jpg",
+   "cover":"https://i.imgur.com/FVigir7.png",
    "chapters":{
-      "1":{
+      "01":{
          "title":"Reincarnation",
+         "volume":"1",
+         "groups":{
+            "synapse.":"/proxy/api/imgur/chapter/2Tl0CjU/"
+         },
+         "last_updated":"1617134170"
+      },
+      "02":{
+         "title":"Became Concious",
+         "volume":"1",
+         "groups":{
+            "synapse.":"/proxy/api/imgur/chapter/2Tl0CjU/"
+         },
+         "last_updated":"1617134170"
+      },
+      "03":{
+         "title":"Invitation Aftermath",
          "volume":"1",
          "groups":{
             "synapse.":"/proxy/api/imgur/chapter/2Tl0CjU/"
