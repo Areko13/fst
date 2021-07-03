@@ -1,0 +1,17 @@
+{
+  "title": "<Rinkane>",
+  "description": "Kaku Meguru is a normal high school student, except for dreaming of a previous life. One day, a transfer student, Kongouchi Kotarou, arrives at an unusual time of year. Meguru has finally reunited with a friend from his previous life, who he thought he would never be able to see again, but something about Kotaro friend seems a bit off…?",
+  "artist": "<Tokemichi>",
+  "author": "<Tokemichi>",
+  "cover": "<mangacoverurl.jpg>",
+  "chapters": {
+    "01": {
+      "title": "Reincarnation",
+      "volume": "00",
+      "groups": {
+        "<group name>": "/proxy/api/imgur/chapter/<imgur id>/"
+      },
+      "last_updated": "1616368746"
+    },
+  }
+}
