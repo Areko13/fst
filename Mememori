@@ -20,6 +20,14 @@
             "Sappho Scans":"/proxy/api/imgur/chapter/gLonSgx/"
          },
          "last_updated":"1629853724"
+      },
+       "06.5":{
+         "title":"Volume 01 Extras",
+         "volume":"",
+         "groups":{
+            "Sappho Scans":"/proxy/api/imgur/chapter/O437XCu/"
+         },
+         "last_updated":"1632316501"
       }
    }
 }
