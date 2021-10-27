@@ -44,6 +44,14 @@
             "Sappho Scans":"/proxy/api/imgur/chapter/ATkN3yh/"
          },
          "last_updated":"1634740579"
+      },
+      "06":{
+         "title":"Look My Way",
+         "volume":"",
+         "groups":{
+            "Sappho Scans":"/proxy/api/imgur/chapter/W136crf/"
+         },
+         "last_updated":"1635339216"
       }
    }
 }
