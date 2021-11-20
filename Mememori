@@ -28,6 +28,22 @@
             "Sappho Scans":"/proxy/api/imgur/chapter/O437XCu/"
          },
          "last_updated":"1632316501"
+      },
+      "07":{
+         "title":"Sly Woman",
+         "volume":"",
+         "groups":{
+            "Sappho Scans":"/proxy/api/imgur/chapter/V4osSB2/"
+         },
+         "last_updated":"1632929298"
+      },
+      "08":{
+         "title":"Eternal Rivals",
+         "volume":"",
+         "groups":{
+            "Sappho Scans":"/proxy/api/imgur/chapter/XU1Upuf/"
+         },
+         "last_updated":"1637408573"
       }
    }
 }
