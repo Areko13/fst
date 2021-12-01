@@ -52,6 +52,22 @@
             "Sappho Scans":"/proxy/api/imgur/chapter/W136crf/"
          },
          "last_updated":"1635339216"
+      },
+      "07":{
+         "title":"An Unexpected Assassin",
+         "volume":"",
+         "groups":{
+            "Sappho Scans":"/proxy/api/imgur/chapter/iLocy4o/"
+         },
+         "last_updated":"1635339216"
+      },
+      "07.5":{
+         "title":"Extras",
+         "volume":"",
+         "groups":{
+            "Sappho Scans":"/proxy/api/imgur/chapter/N8R29wJ/"
+         },
+         "last_updated":"1635339216"
       }
    }
 }
