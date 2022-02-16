@@ -68,6 +68,22 @@
             "Sappho Scans":"/proxy/api/imgur/chapter/N8R29wJ/"
          },
          "last_updated":"1638373027"
+      },
+      "08.1":{
+         "title":"They're Also Reincarnated?! - Part 1",
+         "volume":"",
+         "groups":{
+            "Sappho Scans":"/proxy/api/imgur/chapter/eMpCuKy/"
+         },
+         "last_updated":"1644421266"
+      },
+      "08.2":{
+         "title":"They're Also Reincarnated?! - Part 2",
+         "volume":"",
+         "groups":{
+            "Sappho Scans":"/proxy/api/imgur/chapter/IKVl6ow/"
+         },
+         "last_updated":"1645026066"
       }
    }
 }
