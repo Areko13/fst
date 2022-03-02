@@ -7,7 +7,7 @@
    "chapters":{
       "05":{
          "title":"First Time Battle",
-         "volume":"",
+         "volume":"1",
          "groups":{
             "N/A":"/proxy/api/imgur/chapter/Y945VTi/"
          },
@@ -15,7 +15,7 @@
       },
       "06":{
          "title":"Similar Feelings",
-         "volume":"",
+         "volume":"1",
          "groups":{
             "Sappho Scans":"/proxy/api/imgur/chapter/gLonSgx/"
          },
@@ -23,7 +23,7 @@
       },
        "06.5":{
          "title":"Volume 01 Extras",
-         "volume":"",
+         "volume":"1",
          "groups":{
             "Sappho Scans":"/proxy/api/imgur/chapter/O437XCu/"
          },
@@ -31,7 +31,7 @@
       },
       "07":{
          "title":"Sly Woman",
-         "volume":"",
+         "volume":"2",
          "groups":{
             "Sappho Scans":"/proxy/api/imgur/chapter/V4osSB2/"
          },
@@ -39,11 +39,19 @@
       },
       "08":{
          "title":"Eternal Rivals",
-         "volume":"",
+         "volume":"2",
          "groups":{
             "Sappho Scans":"/proxy/api/imgur/chapter/XU1Upuf/"
          },
          "last_updated":"1637408573"
+      },
+      "09":{
+         "title":"Eternal Rivals",
+         "volume":"2",
+         "groups":{
+            "Sappho Scans":"/proxy/api/imgur/chapter/JUNFR6F/"
+         },
+         "last_updated":"1646226348"
       }
    }
 }
