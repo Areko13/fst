@@ -7,7 +7,7 @@
    "chapters":{
       "01":{
          "title":"Reincarnation",
-         "volume":"",
+         "volume":"1",
          "groups":{
             "Sappho Scans":"/proxy/api/imgur/chapter/UL3uDeK/"
          },
@@ -15,7 +15,7 @@
       },
       "02":{
          "title":"Became Conscious",
-         "volume":"",
+         "volume":"1",
          "groups":{
             "Sappho Scans":"/proxy/api/imgur/chapter/7vvSdna/"
          },
@@ -23,7 +23,7 @@
       },
       "03":{
          "title":"Invitation Aftermath",
-         "volume":"",
+         "volume":"1",
          "groups":{
             "Sappho Scans":"/proxy/api/imgur/chapter/7ig7flp/"
          },
@@ -31,7 +31,7 @@
       },
       "04":{
          "title":"Wavering Feelings and Uneasiness",
-         "volume":"",
+         "volume":"1",
          "groups":{
             "Sappho Scans":"/proxy/api/imgur/chapter/wuVqAuX/"
          },
@@ -39,7 +39,7 @@
       },
       "05":{
          "title":"Getting Closer",
-         "volume":"",
+         "volume":"1",
          "groups":{
             "Sappho Scans":"/proxy/api/imgur/chapter/ATkN3yh/"
          },
@@ -47,7 +47,7 @@
       },
       "06":{
          "title":"Look My Way",
-         "volume":"",
+         "volume":"1",
          "groups":{
             "Sappho Scans":"/proxy/api/imgur/chapter/W136crf/"
          },
@@ -55,17 +55,25 @@
       },
       "07":{
          "title":"An Unexpected Assassin",
-         "volume":"",
+         "volume":"1",
          "groups":{
             "Sappho Scans":"/proxy/api/imgur/chapter/iLocy4o/"
          },
          "last_updated":"1638373027"
       },
-      "07.5":{
+      "07.1":{
          "title":"Extras",
-         "volume":"",
+         "volume":"1",
          "groups":{
             "Sappho Scans":"/proxy/api/imgur/chapter/N8R29wJ/"
+         },
+         "last_updated":"1638373027"
+      },
+      "07.5":{
+         "title":"Volume 01 Extras",
+         "volume":"1",
+         "groups":{
+            "Sappho Scans":"/proxy/api/imgur/chapter/wyjGr09/"
          },
          "last_updated":"1638373027"
       },
