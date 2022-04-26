@@ -1,0 +1,17 @@
+{
+   "title":"Our Yuri Started With Me Getting Rejected in a Dream",
+   "description":"Serialization of Popular twitter manga by Hijiki",
+   "artist":"Makihon Umemi",
+   "author":"Nigatsu Kou",
+   "cover":"https://i.imgur.com/oc2iAP2.png",
+   "chapters":{
+      "01":{
+         "title":"Beginning",
+         "volume":"",
+         "groups":{
+            "Sappho Scans":"/proxy/api/imgur/chapter/cuuM7HQ/"
+         },
+         "last_updated":"1650948332"
+      }
+   }
+}
