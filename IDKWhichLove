@@ -5,6 +5,14 @@
    "author":"Oku Tamamushi",
    "cover":"https://i.imgur.com/QVpPRta.png",
    "chapters":{
+      "04":{
+         "title":"Chapter 04",
+         "volume":"1",
+         "groups":{
+            "Sappho Scans":"/proxy/api/imgur/chapter/0j2qiJ0/"
+         },
+         "last_updated":"1655097341"
+      },
       "05":{
          "title":"Chapter 05",
          "volume":"1",
