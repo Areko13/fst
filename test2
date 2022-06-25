@@ -1,65 +1,129 @@
 {
-   "title":"Unparalleled Mememori-kun",
-   "description":"When Mememori woke up one morning, he had become a girl. She was surprised that she became a girl, but since she was a beauty, she decided to live her life as one!! An exciting TS Comedy opens! \n\nDescription from Mangadex.",
-   "artist":"Moricocco",
-   "author":"Moricocco",
-   "cover":"https://i.imgur.com/XI9d8Uv.png",
+   "title":"Reincarne",
+   "description":"Meguru Kaku is a normal high school student, except for the dreams he has about his previous life. One day, an unseasonal new student, Kotaro Kongochi, arrives. He is reunited with a friend from his previous life that he thought he would never meet, but something is wrong with him...?",
+   "artist":"Tokemichi",
+   "author":"Tokemichi",
+   "cover":"https://i.imgur.com/D3aE2wf.png",
    "chapters":{
-      "05":{
-         "title":"First Time Battle",
+      "01":{
+         "title":"Reincarnation",
          "volume":"1",
          "groups":{
-            "N/A":"/proxy/api/imgur/chapter/Y945VTi/"
+            "Sappho Scans":"/proxy/api/imgur/chapter/UL3uDeK/"
          },
-         "last_updated":"1627871086"
+         "last_updated":"1630285730"
+      },
+      "02":{
+         "title":"Became Conscious",
+         "volume":"1",
+         "groups":{
+            "Sappho Scans":"/proxy/api/imgur/chapter/7vvSdna/"
+         },
+         "last_updated":"1631073880"
+      },
+      "03":{
+         "title":"Invitation Aftermath",
+         "volume":"1",
+         "groups":{
+            "Sappho Scans":"/proxy/api/imgur/chapter/7ig7flp/"
+         },
+         "last_updated":"1631710376"
+      },
+      "04":{
+         "title":"Wavering Feelings and Uneasiness",
+         "volume":"1",
+         "groups":{
+            "Sappho Scans":"/proxy/api/imgur/chapter/wuVqAuX/"
+         },
+         "last_updated":"1633531176"
+      },
+      "05":{
+         "title":"Getting Closer",
+         "volume":"1",
+         "groups":{
+            "Sappho Scans":"/proxy/api/imgur/chapter/ATkN3yh/"
+         },
+         "last_updated":"1634740579"
       },
       "06":{
-         "title":"Similar Feelings",
+         "title":"Look My Way",
          "volume":"1",
          "groups":{
-            "Sappho Scans":"/proxy/api/imgur/chapter/gLonSgx/"
+            "Sappho Scans":"/proxy/api/imgur/chapter/W136crf/"
          },
-         "last_updated":"1629853724"
+         "last_updated":"1635339216"
       },
-       "06.5":{
+      "07":{
+         "title":"An Unexpected Assassin",
+         "volume":"1",
+         "groups":{
+            "Sappho Scans":"/proxy/api/imgur/chapter/iLocy4o/"
+         },
+         "last_updated":"1638373027"
+      },
+      "07.1":{
+         "title":"Extras",
+         "volume":"1",
+         "groups":{
+            "Sappho Scans":"/proxy/api/imgur/chapter/N8R29wJ/"
+         },
+         "last_updated":"1638373027"
+      },
+      "07.5":{
          "title":"Volume 01 Extras",
          "volume":"1",
          "groups":{
-            "Sappho Scans":"/proxy/api/imgur/chapter/O437XCu/"
+            "Sappho Scans":"/proxy/api/imgur/chapter/wyjGr09/"
          },
-         "last_updated":"1632316501"
+         "last_updated":"1648038537"
       },
-      "07":{
-         "title":"Sly Woman",
-         "volume":"2",
+      "08.1":{
+         "title":"They're Also Reincarnated?! - Part 1",
+         "volume":"",
          "groups":{
-            "Sappho Scans":"/proxy/api/imgur/chapter/V4osSB2/"
+            "Sappho Scans":"/proxy/api/imgur/chapter/eMpCuKy/"
          },
-         "last_updated":"1632929298"
+         "last_updated":"1644421266"
       },
-      "08":{
-         "title":"Eternal Rivals",
-         "volume":"2",
+      "08.2":{
+         "title":"They're Also Reincarnated?! - Part 2",
+         "volume":"",
          "groups":{
-            "Sappho Scans":"/proxy/api/imgur/chapter/XU1Upuf/"
+            "Sappho Scans":"/proxy/api/imgur/chapter/IKVl6ow/"
          },
-         "last_updated":"1637408573"
+         "last_updated":"1645026066"
       },
       "09":{
-         "title":"Big Sis and Lil Bro",
-         "volume":"2",
+         "title":"Culture Festival (Preparations) - Part 1",
+         "volume":"",
          "groups":{
-            "Sappho Scans":"/proxy/api/imgur/chapter/JUNFR6F/"
+            "Sappho Scans":"/proxy/api/imgur/chapter/qzsyrw7/"
          },
-         "last_updated":"1646226348"
+         "last_updated":"1649859604"
       },
       "10":{
-         "title":"Our Summer Break",
-         "volume":"2",
+         "title":"Culture Festival (Preparations) - Part 2",
+         "volume":"",
          "groups":{
-            "Sappho Scans":"/proxy/api/imgur/chapter/KUWOB5C/"
+            "Sappho Scans":"/proxy/api/imgur/chapter/aA8EQKL/"
          },
-         "last_updated":"1651068244"
+         "last_updated":"1650463042"
+      },
+      "11":{
+         "title":"Culture Festival (Preparations) - Part 2",
+         "volume":"",
+         "groups":{
+            "Sappho Scans":"/proxy/api/imgur/chapter/aA8EQKL/"
+         },
+         "last_updated":"1rAQk9D"
+      },
+      "11.1":{
+         "title":"Extras",
+         "volume":"",
+         "groups":{
+            "Sappho Scans":"/proxy/api/imgur/chapter/gLdpUgH/"
+         },
+         "last_updated":"1652882641"
       }
    }
-} 
+}
