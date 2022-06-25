@@ -110,12 +110,12 @@
          "last_updated":"1650463042"
       },
       "11":{
-         "title":"Culture Festival (Preparations) - Part 2",
+         "title":"Culture Festival - Part 1",
          "volume":"",
          "groups":{
-            "Sappho Scans":"/proxy/api/imgur/chapter/aA8EQKL/"
+            "Sappho Scans":"/proxy/api/imgur/chapter/1rAQk9D/"
          },
-         "last_updated":"1rAQk9D"
+         "last_updated":"1652882641"
       },
       "11.1":{
          "title":"Extras",
@@ -124,6 +124,14 @@
             "Sappho Scans":"/proxy/api/imgur/chapter/gLdpUgH/"
          },
          "last_updated":"1652882641"
+      },
+      "12":{
+         "title":"Culture Festival - Part 2 ",
+         "volume":"",
+         "groups":{
+            "Sappho Scans":"/proxy/api/imgur/chapter/lOFcBnO/"
+         },
+         "last_updated":"1656167351"
       }
    }
 }
