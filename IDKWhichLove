@@ -28,6 +28,14 @@
             "Sappho Scans":"/proxy/api/imgur/chapter/x4siYsh/"
          },
          "last_updated":"1655702154"
+      },
+      "07":{
+         "title":"Chapter 07",
+         "volume":"1",
+         "groups":{
+            "Sappho Scans":"/proxy/api/imgur/chapter/Sqq0qa9/"
+         },
+         "last_updated":"1656306269"
       }
    }
 }
