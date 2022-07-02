@@ -7,7 +7,7 @@
    "chapters":{
       "01":{
          "title":"",
-         "volume":"",
+         "volume":"1",
          "groups":{
             "Sappho Scans":"/proxy/api/imgur/chapter/7PlFBYV/"
          },
@@ -15,7 +15,7 @@
       },
       "02":{
          "title":"",
-         "volume":"",
+         "volume":"2",
          "groups":{
             "Sappho Scans":"/proxy/api/imgur/chapter/B6ujTWK/"
          },
