@@ -1,0 +1,25 @@
+{
+   "title":"Tiger & Hummingbird",
+   "description":"N/A",
+   "artist":"Yodakawa",
+   "author":"Yodakawa",
+   "cover":"https://i.imgur.com/sonGJ49.png",
+   "chapters":{
+      "01":{
+         "title":"",
+         "volume":"",
+         "groups":{
+            "Sappho Scans":"/proxy/api/imgur/chapter/7PlFBYV/"
+         },
+         "last_updated":"1656737035"
+      },
+      "02":{
+         "title":"",
+         "volume":"",
+         "groups":{
+            "Sappho Scans":"/proxy/api/imgur/chapter/B6ujTWK/"
+         },
+         "last_updated":"1656737035"
+      }
+   }
+}
