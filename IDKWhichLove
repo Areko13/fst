@@ -5,6 +5,14 @@
    "author":"Oku Tamamushi",
    "cover":"https://i.imgur.com/QVpPRta.png",
    "chapters":{
+      "03":{
+         "title":"Chapter 03",
+         "volume":"1",
+         "groups":{
+            "Yuri Kitsune":"/proxy/api/imgur/chapter/bp5gLRH/"
+         },
+         "last_updated":"1658185851"
+      },
       "04":{
          "title":"Chapter 04",
          "volume":"1",
