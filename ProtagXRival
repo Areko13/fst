@@ -156,6 +156,14 @@
             "Cuetie Scans & Sappho Scans":"/proxy/api/imgur/chapter/fBNFEzv/"
          },
          "last_updated":"1657255537"
+      },
+      "20":{
+         "title":"Chapter 20",
+         "volume":"2",
+         "groups":{
+            "Cuetie Scans & Sappho Scans":"/proxy/api/imgur/chapter/LDhdoMK/"
+         },
+         "last_updated":"1658315249"
       }
    }
 }
