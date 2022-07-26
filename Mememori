@@ -63,11 +63,19 @@
       },
       "11":{
          "title":"Promised Date",
-         "volume":"2",
+         "volume":"2"
          "groups":{
             "Sappho Scans":"/proxy/api/imgur/chapter/0wYgkId/"
          },
          "last_updated":"1657804085"
+      },
+      "12":{
+         "title":"Fireworks Festival",
+         "volume":"2",
+         "groups":{
+            "Sappho Scans":"/proxy/api/imgur/chapter/zXPfpP0/"
+         },
+         "last_updated":"1658843653"
       }
    }
 } 
