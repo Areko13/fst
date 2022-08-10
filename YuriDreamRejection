@@ -44,6 +44,14 @@
             "Sappho Scans":"/proxy/api/imgur/chapter/ESerCU1/"
          },
          "last_updated":"1657688784"
+      },
+      "06":{
+         "title":"Sleepover",
+         "volume":"",
+         "groups":{
+            "Sappho Scans":"/proxy/api/imgur/chapter/POMOYgV/"
+         },
+         "last_updated":"1660106221"
       }
    }
 }
