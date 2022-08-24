@@ -84,6 +84,14 @@
             "Sappho Scans":"/proxy/api/imgur/chapter/QosLNnf/"
          },
          "last_updated":"1660659603"
+      },
+      "13":{
+         "title":"Physical Exams",
+         "volume":"",
+         "groups":{
+            "Sappho Scans":"/proxy/api/imgur/chapter/9V02daL/"
+         },
+         "last_updated":"1661335395"
       }
    }
 } 
