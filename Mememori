@@ -5,6 +5,14 @@
    "author":"Moricocco",
    "cover":"https://i.imgur.com/XI9d8Uv.png",
    "chapters":{
+      "01":{
+      "title":"When I Woke Up...",
+      "volume":"1",
+      "groups":{
+         "N/A":"/proxy/api/imgur/chapter/4aU8slk/"
+      },
+      "last_updated":"1627871086"
+      },
       "05":{
          "title":"First Time Battle",
          "volume":"1",
