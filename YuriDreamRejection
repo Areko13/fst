@@ -76,6 +76,14 @@
             "Sappho Scans":"/proxy/api/imgur/chapter/Jgbs4eN/"
          },
          "last_updated":"1663981147"
+      },
+      "10":{
+         "title":"Seat",
+         "volume":"",
+         "groups":{
+            "Sappho Scans":"/proxy/api/imgur/chapter/6GIkh9q/"
+         },
+         "last_updated":"1665722181"
       }
    }
 }
