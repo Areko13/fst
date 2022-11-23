@@ -92,6 +92,22 @@
             "Sappho Scans":"/proxy/api/imgur/chapter/90CGoLw/"
          },
          "last_updated":"1667707477"
+      },
+      "12":{
+         "title":"You Look Great Together",
+         "volume":"",
+         "groups":{
+            "Sappho Scans":"/proxy/api/imgur/chapter/o3bHhdz/"
+         },
+         "last_updated":"1669179973"
+      },
+      "13":{
+         "title":"Nothing as of Yet",
+         "volume":"",
+         "groups":{
+            "Sappho Scans":"/proxy/api/imgur/chapter/javBc9m/"
+         },
+         "last_updated":"1669179973"
       }
    }
 }
