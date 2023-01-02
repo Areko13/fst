@@ -172,6 +172,14 @@
             "Sappho Scans":"/proxy/api/imgur/chapter/2jWsaJn/"
          },
          "last_updated":"1667225317"
+      },
+      "14.2":{
+         "title":"Report (Part 2)",
+         "volume":"",
+         "groups":{
+            "Sappho Scans":"/proxy/api/imgur/chapter/v3HdLeP/"
+         },
+         "last_updated":"1672639551"
       }
    }
 }
