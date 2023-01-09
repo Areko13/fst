@@ -180,6 +180,30 @@
             "Cuetie Scans & Sappho Scans":"/proxy/api/imgur/chapter/TpiOOvn/"
          },
          "last_updated":"1670128690"
+      },
+      "23":{
+         "title":"Chapter 23",
+         "volume":"2",
+         "groups":{
+            "Cuetie Scans & Sappho Scans":"/proxy/api/imgur/chapter/7DOK8PT/"
+         },
+         "last_updated":"1673241623"
+      },
+      "24":{
+         "title":"Chapter 24",
+         "volume":"2",
+         "groups":{
+            "Cuetie Scans & Sappho Scans":"/proxy/api/imgur/chapter/FGl8Iee/"
+         },
+         "last_updated":"1673241623"
+      },
+      "25":{
+         "title":"Chapter 25",
+         "volume":"2",
+         "groups":{
+            "Cuetie Scans & Sappho Scans":"/proxy/api/imgur/chapter/gXX2JCn/"
+         },
+         "last_updated":"1673241623"
       }
    }
 }
