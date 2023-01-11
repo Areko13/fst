@@ -113,17 +113,17 @@
          "title":"Volume 01 Extras",
          "volume":"1",
          "groups":{
-            "Sappho Scans":"/proxy/api/imgur/chapter/6H9bDo0/"
+            "Sappho Scans":"/proxy/api/imgur/chapter/Zm0mrIX/"
          },
-         "last_updated":"1671166847"
+         "last_updated":"1673332101"
       },
       "14":{
          "title":"I'll Start…",
          "volume":"",
          "groups":{
-            "Sappho Scans":"/proxy/api/imgur/chapter/Zm0mrIX/"
+            "Sappho Scans":"/proxy/api/imgur/chapter/6H9bDo0/"
          },
-         "last_updated":"1673332101"
+         "last_updated":"1671166847"
       }
    }
 }
