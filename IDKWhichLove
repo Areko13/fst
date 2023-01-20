@@ -55,7 +55,7 @@
       },
       "08":{
          "title":"Chapter 08",
-         "volume":"",
+         "volume":"2",
          "groups":{
             "Sappho Scans":"/proxy/api/imgur/chapter/DuYTzE7/"
          },
@@ -63,7 +63,7 @@
       },
       "09":{
          "title":"Chapter 09",
-         "volume":"",
+         "volume":"2",
          "groups":{
             "Sappho Scans":"/proxy/api/imgur/chapter/MGVQ5es/"
          },
@@ -71,7 +71,7 @@
       },
       "10":{
          "title":"Chapter 10",
-         "volume":"",
+         "volume":"2",
          "groups":{
             "Sappho Scans":"/proxy/api/imgur/chapter/GWRJY7f/"
          },
@@ -79,7 +79,7 @@
       },
       "11":{
          "title":"Chapter 11",
-         "volume":"",
+         "volume":"2",
          "groups":{
             "Sappho Scans":"/proxy/api/imgur/chapter/fYwi0tu/"
          },
@@ -87,7 +87,7 @@
       },
       "12":{
          "title":"Chapter 12",
-         "volume":"",
+         "volume":"2",
          "groups":{
             "Sappho Scans":"/proxy/api/imgur/chapter/C5TWaqV/"
          },
@@ -95,7 +95,7 @@
       },
       "13":{
          "title":"Chapter 13",
-         "volume":"",
+         "volume":"2",
          "groups":{
             "Sappho Scans":"/proxy/api/imgur/chapter/VYgFzix/"
          },
@@ -103,7 +103,7 @@
       },
       "14":{
          "title":"Chapter 14",
-         "volume":"",
+         "volume":"2",
          "groups":{
             "Sappho Scans":"/proxy/api/imgur/chapter/DG3jiVJ/"
          },
@@ -111,7 +111,7 @@
       },
       "15":{
          "title":"Chapter 15",
-         "volume":"",
+         "volume":"2",
          "groups":{
             "Sappho Scans":"/proxy/api/imgur/chapter/rHwIJh0/"
          },
@@ -119,7 +119,7 @@
       },
       "15.5":{
          "title":"Chapter 15.5",
-         "volume":"1",
+         "volume":"2",
          "groups":{
             "Sappho Scans":"/proxy/api/imgur/chapter/1seYs3h/"
          },
