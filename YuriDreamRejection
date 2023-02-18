@@ -148,6 +148,14 @@
             "Sappho Scans":"/proxy/api/imgur/chapter/labokEV/"
          },
          "last_updated":"1674749560"
+      },
+      "17":{
+         "title":"Image Training",
+         "volume":"",
+         "groups":{
+            "Sappho Scans":"/proxy/api/imgur/chapter/7IwZXS8/"
+         },
+         "last_updated":"1676699051"
       }
    }
 }
