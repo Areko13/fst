@@ -156,6 +156,14 @@
             "Sappho Scans":"/proxy/api/imgur/chapter/7IwZXS8/"
          },
          "last_updated":"1676699051"
+      },
+      "18":{
+         "title":"Morning Commute",
+         "volume":"",
+         "groups":{
+            "Sappho Scans":"/proxy/api/imgur/chapter/pMVWlsd/"
+         },
+         "last_updated":"1679713250"
       }
    }
 }
