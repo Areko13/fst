@@ -180,6 +180,14 @@
             "Sappho Scans":"/proxy/api/imgur/chapter/gaDbHkd/"
          },
          "last_updated":"1681918469"
+      },
+      "21":{
+         "title":"The Four of Us",
+         "volume":"",
+         "groups":{
+            "Sappho Scans":"/proxy/api/imgur/chapter/F2TXuBf/"
+         },
+         "last_updated":"1683000222"
       }
    }
 }
