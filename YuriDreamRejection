@@ -188,6 +188,14 @@
             "Sappho Scans":"/proxy/api/imgur/chapter/F2TXuBf/"
          },
          "last_updated":"1683000222"
+      },
+      "22":{
+         "title":"Sukiyama Sisters",
+         "volume":"",
+         "groups":{
+            "Sappho Scans":"/proxy/api/imgur/chapter/0aYKFYQ/"
+         },
+         "last_updated":"1683521160"
       }
    }
 }
