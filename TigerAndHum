@@ -6,7 +6,7 @@
    "cover":"https://i.imgur.com/sonGJ49.png",
    "chapters":{
       "01":{
-         "title":"",
+         "title":"Chapter 01",
          "volume":"1",
          "groups":{
             "Sappho Scans":"/proxy/api/imgur/chapter/7PlFBYV/"
@@ -14,7 +14,7 @@
          "last_updated":"1656737035"
       },
       "02":{
-         "title":"",
+         "title":"Chapter 02",
          "volume":"1",
          "groups":{
             "Sappho Scans":"/proxy/api/imgur/chapter/B6ujTWK/"
@@ -22,7 +22,7 @@
          "last_updated":"1656737035"
       },
       "03":{
-         "title":"",
+         "title":"Chapter 03",
          "volume":"1",
          "groups":{
             "Sappho Scans":"/proxy/api/imgur/chapter/VaKDUoa/"
@@ -30,7 +30,7 @@
          "last_updated":"1669008761"
       },
       "04":{
-         "title":"",
+         "title":"Chapter 04",
          "volume":"1",
          "groups":{
             "Sappho Scans":"/proxy/api/imgur/chapter/16NkJrX/"
@@ -38,7 +38,7 @@
          "last_updated":"1669008761"
       },
       "05":{
-         "title":"",
+         "title":"Chapter 05",
          "volume":"1",
          "groups":{
             "Sappho Scans":"/proxy/api/imgur/chapter/TfeBzzK/"
@@ -46,7 +46,7 @@
          "last_updated":"1673156670"
       },
       "06":{
-         "title":"",
+         "title":"Chapter 06",
          "volume":"1",
          "groups":{
             "Sappho Scans":"/proxy/api/imgur/chapter/OVlGK8s/"
@@ -54,7 +54,7 @@
          "last_updated":"1676956070"
       },
       "06.5":{
-         "title":"",
+         "title":"Chapter 06.5",
          "volume":"1",
          "groups":{
             "Sappho Scans":"/proxy/api/imgur/chapter/3yPZrnR/"
@@ -62,12 +62,20 @@
          "last_updated":"1677387735"
       },
       "07":{
-         "title":"",
+         "title":"Chapter 07",
          "volume":"2",
          "groups":{
             "Sappho Scans":"/proxy/api/imgur/chapter/4PlyMFu/"
          },
          "last_updated":"1684597341"
+      },
+      "08":{
+         "title":"Chapter 08",
+         "volume":"2",
+         "groups":{
+            "Sappho Scans":"/proxy/api/imgur/chapter/rzlNFuV/"
+         },
+         "last_updated":"1685941512"
       }
    }
 }
