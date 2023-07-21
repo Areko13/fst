@@ -1,0 +1,25 @@
+{
+   "title":"Men Men Musubi and Other Stories",
+   "description":"",
+   "artist":"Yodokawa",
+   "author":"Yodokawa",
+   "cover":"https://i.imgur.com/OBg66dt.png",
+   "chapters":{
+      "01":{
+         "title":"Men Men Musubi",
+         "volume":"1",
+         "groups":{
+            "Sappho Scans":"/proxy/api/imgur/chapter/5BpV6Mw/"
+         },
+         "last_updated":"1689912339"
+      },
+      "02":{
+         "title":"Match Making",
+         "volume":"1",
+         "groups":{
+            "Sappho Scans":"/proxy/api/imgur/chapter/4mTMsI0/"
+         },
+         "last_updated":"1689912339"
+      }
+   }
+}
