@@ -212,6 +212,22 @@
             "Sappho Scans":"/proxy/api/imgur/chapter/R8hRoZ7/"
          },
          "last_updated":"1686370201"
+      },
+      "25":{
+         "title":"Gone Too Far",
+         "volume":"",
+         "groups":{
+            "Sappho Scans":"/proxy/api/imgur/chapter/idsgaIT/"
+         },
+         "last_updated":"1690171502"
+      },
+      "26":{
+         "title":"Tomorrow, the Beach",
+         "volume":"",
+         "groups":{
+            "Sappho Scans":"/proxy/api/imgur/chapter/aCW8Uac/"
+         },
+         "last_updated":"1690171502"
       }
    }
 }
