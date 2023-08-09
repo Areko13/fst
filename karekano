@@ -52,6 +52,14 @@
             "Sappho Scans":"/proxy/api/imgur/chapter/vklZmug/"
          },
          "last_updated":"1688929574"
+      },
+      "15":{
+         "title":"",
+         "volume":"03",
+         "groups":{
+            "Sappho Scans & Danke fürs Lesen":"/proxy/api/imgur/chapter/3o7lMCr/"
+         },
+         "last_updated":"1691623083"
       }
    }
 }
