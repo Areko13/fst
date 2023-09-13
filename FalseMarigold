@@ -7,7 +7,7 @@
    "chapters":{
       "01":{
          "title":"Chapter 01",
-         "volume":"",
+         "volume":"1",
          "groups":{
             "Sappho Scans":"/proxy/api/imgur/chapter/FzfJKvY/"
          },
@@ -15,7 +15,7 @@
       },
       "02":{
          "title":"Chapter 02",
-         "volume":"",
+         "volume":"1",
          "groups":{
             "Sappho Scans":"/proxy/api/imgur/chapter/dss5vZG/"
          },
@@ -23,7 +23,7 @@
       },
       "03":{
          "title":"Chapter 03",
-         "volume":"",
+         "volume":"1",
          "groups":{
             "Sappho Scans":"/proxy/api/imgur/chapter/PV9UTuQ/"
          },
@@ -31,11 +31,19 @@
       },
       "04":{
          "title":"Chapter 04",
-         "volume":"",
+         "volume":"1",
          "groups":{
             "Sappho Scans":"/proxy/api/imgur/chapter/3s5FIZD/"
          },
          "last_updated":"1691123119"
+      },
+      "05":{
+         "title":"Chapter 05",
+         "volume":"1",
+         "groups":{
+            "Sappho Scans":"/proxy/api/imgur/chapter/lJ3ehgz/"
+         },
+         "last_updated":"1694618001"
       }
    }
 }
