@@ -127,7 +127,7 @@
       },
       "14":{
          "title":"I'll Start…",
-         "volume":"",
+         "volume":"2",
          "groups":{
             "Sappho Scans":"/proxy/api/imgur/chapter/6H9bDo0/"
          },
@@ -135,7 +135,7 @@
       },
       "15":{
          "title":"Love Advice",
-         "volume":"",
+         "volume":"2",
          "groups":{
             "Sappho Scans":"/proxy/api/imgur/chapter/FZOdZ0T/"
          },
@@ -143,7 +143,7 @@
       },
       "16":{
          "title":"For Now… and What Comes After",
-         "volume":"",
+         "volume":"2",
          "groups":{
             "Sappho Scans":"/proxy/api/imgur/chapter/labokEV/"
          },
@@ -151,7 +151,7 @@
       },
       "17":{
          "title":"Image Training",
-         "volume":"",
+         "volume":"2",
          "groups":{
             "Sappho Scans":"/proxy/api/imgur/chapter/7IwZXS8/"
          },
@@ -159,7 +159,7 @@
       },
       "18":{
          "title":"Morning Commute",
-         "volume":"",
+         "volume":"2",
          "groups":{
             "Sappho Scans":"/proxy/api/imgur/chapter/pMVWlsd/"
          },
@@ -167,7 +167,7 @@
       },
       "19":{
          "title":"Conversation",
-         "volume":"",
+         "volume":"2",
          "groups":{
             "Sappho Scans":"/proxy/api/imgur/chapter/HnEAVBA/"
          },
@@ -175,7 +175,7 @@
       },
       "20":{
          "title":"Sara and Yuu",
-         "volume":"",
+         "volume":"2",
          "groups":{
             "Sappho Scans":"/proxy/api/imgur/chapter/gaDbHkd/"
          },
@@ -183,7 +183,7 @@
       },
       "21":{
          "title":"The Four of Us",
-         "volume":"",
+         "volume":"2",
          "groups":{
             "Sappho Scans":"/proxy/api/imgur/chapter/F2TXuBf/"
          },
@@ -191,7 +191,7 @@
       },
       "22":{
          "title":"Sukiyama Sisters",
-         "volume":"",
+         "volume":"2",
          "groups":{
             "Sappho Scans":"/proxy/api/imgur/chapter/0aYKFYQ/"
          },
@@ -199,7 +199,7 @@
       },
       "23":{
          "title":"Hidden Blush",
-         "volume":"",
+         "volume":"2",
          "groups":{
             "Sappho Scans":"/proxy/api/imgur/chapter/ubA42R2/"
          },
@@ -207,7 +207,7 @@
       },
       "24":{
          "title":"Swimsuit Selection",
-         "volume":"",
+         "volume":"2",
          "groups":{
             "Sappho Scans":"/proxy/api/imgur/chapter/R8hRoZ7/"
          },
@@ -215,7 +215,7 @@
       },
       "25":{
          "title":"Gone Too Far",
-         "volume":"",
+         "volume":"2",
          "groups":{
             "Sappho Scans":"/proxy/api/imgur/chapter/idsgaIT/"
          },
@@ -223,11 +223,19 @@
       },
       "26":{
          "title":"Tomorrow, the Beach",
-         "volume":"",
+         "volume":"2",
          "groups":{
             "Sappho Scans":"/proxy/api/imgur/chapter/aCW8Uac/"
          },
          "last_updated":"1690171502"
+      },
+      "26.1":{
+         "title":"Volume 02 Preview",
+         "volume":"2",
+         "groups":{
+            "Sappho Scans":"/proxy/api/imgur/chapter/UldCk5n/"
+         },
+         "last_updated":"1696564504"
       }
    }
 }
