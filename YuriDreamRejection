@@ -236,6 +236,38 @@
             "Sappho Scans":"/proxy/api/imgur/chapter/UldCk5n/"
          },
          "last_updated":"1696564504"
+      },
+      "26.2":{
+         "title":"Volume 02 Extras",
+         "volume":"2",
+         "groups":{
+            "Sappho Scans":"/proxy/api/imgur/chapter/nd25oov/"
+         },
+         "last_updated":"1698983277"
+      },
+      "27":{
+         "title":"Rejected",
+         "volume":"",
+         "groups":{
+            "Sappho Scans":"/proxy/api/imgur/chapter/QBzlVJz/"
+         },
+         "last_updated":"1698983277"
+      },
+      "28":{
+         "title":"Lunch",
+         "volume":"",
+         "groups":{
+            "Sappho Scans":"/proxy/api/imgur/chapter/qaJwBfy/"
+         },
+         "last_updated":"1698983277"
+      },
+      "28":{
+         "title":"The  Beach!",
+         "volume":"",
+         "groups":{
+            "Sappho Scans":"/proxy/api/imgur/chapter/KKarvXM/"
+         },
+         "last_updated":"1698983277"
       }
    }
 }
