@@ -9,7 +9,7 @@
          "title":"Chapter 01",
          "volume":"1",
          "groups":{
-            "Sappho Scans":"/proxy/api/imgur/chapter/FzfJKvY/"
+            "Sappho Scans":"/proxy/api/imgur/chapter/5qBEkFY/"
          },
          "last_updated":"1680287963"
       },
@@ -44,6 +44,14 @@
             "Sappho Scans":"/proxy/api/imgur/chapter/lJ3ehgz/"
          },
          "last_updated":"1694618001"
+      },
+      "05.5":{
+         "title":"Volume 01 Extras",
+         "volume":"1",
+         "groups":{
+            "Sappho Scans":"/proxy/api/imgur/chapter/dMDuMxN/"
+         },
+         "last_updated":"1699502979"
       }
    }
 }
