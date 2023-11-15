@@ -28,6 +28,14 @@
             "Sappho Scans":"/proxy/api/imgur/chapter/KFJuffq/"
          },
          "last_updated":"1694059435"
+      },
+      "04":{
+         "title":"Roaming Fees",
+         "volume":"1",
+         "groups":{
+            "Sappho Scans":"/proxy/api/imgur/chapter/iJkildj/"
+         },
+         "last_updated":"1700020405"
       }
    }
 }
