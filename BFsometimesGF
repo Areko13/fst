@@ -7,11 +7,19 @@
    "chapters":{
       "01":{
          "title":"",
-         "volume":"",
+         "volume":"1",
          "groups":{
             "Sappho Scans":"/proxy/api/imgur/chapter/T0unl1u/"
          },
          "last_updated":"1694059939"
+      },
+      "02":{
+         "title":"Formal Greetings",
+         "volume":"1",
+         "groups":{
+            "Sappho Scans":"/proxy/api/imgur/chapter/Xy7Wjmj/"
+         },
+         "last_updated":"1701324665"
       }
    }
 }
