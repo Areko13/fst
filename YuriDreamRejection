@@ -245,13 +245,29 @@
          },
          "last_updated":"1698983277"
       },
+      "26.3":{
+         "title":"Volume 02 Melonbooks Bonus",
+         "volume":"2",
+         "groups":{
+            "Sappho Scans":"/proxy/api/imgur/chapter/j0DSDdY/"
+         },
+         "last_updated":"1701407028"
+      },
+      "26.4":{
+         "title":"Volume 02 Gamers Bonus",
+         "volume":"2",
+         "groups":{
+            "Sappho Scans":"/proxy/api/imgur/chapter/nd25oov/"
+         },
+         "last_updated":"1701407028"
+      },
       "27":{
          "title":"Rejected",
          "volume":"",
          "groups":{
-            "Sappho Scans":"/proxy/api/imgur/chapter/QBzlVJz/"
+            "Sappho Scans":"/proxy/api/imgur/chapter/VvUNcwA/"
          },
-         "last_updated":"1698983277"
+         "last_updated":"1701406894"
       },
       "28":{
          "title":"Lunch",
