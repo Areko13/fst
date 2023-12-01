@@ -5,6 +5,14 @@
    "author":"Sasuke",
    "cover":"https://i.imgur.com/nXNpoOg.png",
    "chapters":{
+      "0.5":{
+         "title":"Chapter 0.5 - Volume 01 Gamers Bonus",
+         "volume":"1",
+         "groups":{
+            "Sappho Scans":"/proxy/api/imgur/chapter/O0bjT9V/"
+         },
+         "last_updated":"1701407733"
+      },
       "01":{
          "title":"Chapter 01",
          "volume":"1",
@@ -12,6 +20,14 @@
             "Sappho Scans":"/proxy/api/imgur/chapter/5qBEkFY/"
          },
          "last_updated":"1680287963"
+      },
+      "1.5":{
+         "title":"Chapter 1.5 - Volume 01 Melonbooks Bonus",
+         "volume":"1",
+         "groups":{
+            "Sappho Scans":"/proxy/api/imgur/chapter/5jYwI2c/"
+         },
+         "last_updated":"1701407733"
       },
       "02":{
          "title":"Chapter 02",
@@ -28,6 +44,14 @@
             "Sappho Scans":"/proxy/api/imgur/chapter/PV9UTuQ/"
          },
          "last_updated":"1687581351"
+      },
+      "3.5":{
+         "title":"Chapter 3.5 - Volume 01 Animate Bonus",
+         "volume":"1",
+         "groups":{
+            "Sappho Scans":"/proxy/api/imgur/chapter/cehziEO/"
+         },
+         "last_updated":"1701407733"
       },
       "04":{
          "title":"Chapter 04",
