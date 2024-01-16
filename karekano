@@ -76,6 +76,14 @@
             "Sappho Scans & Danke fürs Lesen":"/proxy/api/imgur/chapter/t1U957O/"
          },
          "last_updated":"1699825299"
+      },
+      "17.5":{
+         "title":"Trans Star",
+         "volume":"03",
+         "groups":{
+            "Sappho Scans & Danke fürs Lesen":"/proxy/api/imgur/chapter/wR1GLYC/"
+         },
+         "last_updated":"1705378797"
       }
    }
 }
