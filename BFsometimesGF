@@ -20,6 +20,14 @@
             "Sappho Scans":"/proxy/api/imgur/chapter/Xy7Wjmj/"
          },
          "last_updated":"1701324665"
+      },
+      "03":{
+         "title":"Shopping",
+         "volume":"1",
+         "groups":{
+            "Sappho Scans":"/proxy/api/imgur/chapter/hfLp16r/"
+         },
+         "last_updated":"1705452935"
       }
    }
 }
