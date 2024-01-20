@@ -79,11 +79,19 @@
       },
       "06":{
          "title":"Chapter 06",
-         "volume":"1",
+         "volume":"2",
          "groups":{
             "Sappho Scans":"/proxy/api/imgur/chapter/3JglOZR/"
          },
          "last_updated":"1699586898"
+      },
+      "07":{
+         "title":"Chapter 07",
+         "volume":"2",
+         "groups":{
+            "Sappho Scans":"/proxy/api/imgur/chapter/zuaS0h0/"
+         },
+         "last_updated":"1705722696"
       }
    }
 }
