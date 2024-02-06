@@ -300,6 +300,30 @@
             "Sappho Scans":"/proxy/api/imgur/chapter/TeVEmPo/"
          },
          "last_updated":"1703135149"
+      },
+      "32":{
+         "title":"Believe in Yourself",
+         "volume":"",
+         "groups":{
+            "Sappho Scans":"/proxy/api/imgur/chapter/AXDhm8B/"
+         },
+         "last_updated":"1707195485"
+      },
+      "33":{
+         "title":"Time for a Walk ",
+         "volume":"",
+         "groups":{
+            "Sappho Scans":"/proxy/api/imgur/chapter/hDpscyq/"
+         },
+         "last_updated":"1707195485"
+      },
+      "34":{
+         "title":"Confession",
+         "volume":"",
+         "groups":{
+            "Sappho Scans":"/proxy/api/imgur/chapter/TeVEmPo/"
+         },
+         "last_updated":"1707195485"
       }
    }
 }
