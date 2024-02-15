@@ -36,6 +36,14 @@
             "Sappho Scans":"/proxy/api/imgur/chapter/iJkildj/"
          },
          "last_updated":"1700020405"
+      },
+      "05":{
+         "title":"Flying Cosmoss",
+         "volume":"1",
+         "groups":{
+            "Sappho Scans":"/proxy/api/imgur/chapter/SFxdaap/"
+         },
+         "last_updated":"1707955428"
       }
    }
 }
