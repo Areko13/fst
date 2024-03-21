@@ -36,6 +36,14 @@
             "Sappho Scans":"/proxy/api/imgur/chapter/Ar2v6R7/"
          },
          "last_updated":"1705884989"
+      },
+      "04":{
+         "title":"The Second One",
+         "volume":"1",
+         "groups":{
+            "Sappho Scans":"/proxy/api/imgur/chapter/wOtebPB/"
+         },
+         "last_updated":"1711035958"
       }
    }
 }
