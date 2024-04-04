@@ -348,6 +348,14 @@
             "Sappho Scans":"/proxy/api/imgur/chapter/rG19xk6/"
          },
          "last_updated":"1710702281"
+      },
+      "38":{
+         "title":"Debrief",
+         "volume":"",
+         "groups":{
+            "Sappho Scans":"/proxy/api/imgur/chapter/dFyIsnm/"
+         },
+         "last_updated":"1712206706"
       }
    }
 }
