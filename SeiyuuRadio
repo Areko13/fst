@@ -7,7 +7,7 @@
    "chapters":{
       "12":{
          "title":"Chapter 12",
-         "volume":"",
+         "volume":"2",
          "groups":{
             "Arite Drop & Sappho Scans":"/proxy/api/imgur/chapter/tLC9jTX/"
          },
@@ -15,7 +15,7 @@
       },
       "13":{
          "title":"Chapter 13",
-         "volume":"",
+         "volume":"2",
          "groups":{
             "Arite Drop & Sappho Scans":"/proxy/api/imgur/chapter/YOqQaxb/"
          },
@@ -23,7 +23,7 @@
       },
       "14":{
          "title":"Chapter 14",
-         "volume":"",
+         "volume":"2",
          "groups":{
             "Arite Drop & Sappho Scans":"/proxy/api/imgur/chapter/PTmVUyB/"
          },
@@ -31,7 +31,7 @@
       },
       "15":{
          "title":"Chapter 15",
-         "volume":"",
+         "volume":"2",
          "groups":{
             "Sappho Scans":"/proxy/api/imgur/chapter/C8p5HZb/"
          },
@@ -39,7 +39,7 @@
       },
       "16":{
          "title":"Chapter 16",
-         "volume":"",
+         "volume":"2",
          "groups":{
             "Sappho Scans":"/proxy/api/imgur/chapter/KaaszSs/"
          },
@@ -47,11 +47,27 @@
       },
       "16.5":{
          "title":"Chapter 16.5",
-         "volume":"",
+         "volume":"2",
          "groups":{
             "Sappho Scans":"/proxy/api/imgur/chapter/IOssQM8/"
          },
          "last_updated":"1710097428"
+      },
+      "17":{
+         "title":"Chapter 17",
+         "volume":"",
+         "groups":{
+            "Sappho Scans":"/proxy/api/imgur/chapter/qfq0o3Y/"
+         },
+         "last_updated":"1714866956"
+      },
+      "18":{
+         "title":"Chapter 18",
+         "volume":"",
+         "groups":{
+            "Sappho Scans":"/proxy/api/imgur/chapter/MFAU2rc/"
+         },
+         "last_updated":"1714866956"
       }
    }
 }
