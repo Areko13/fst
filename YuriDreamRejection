@@ -271,7 +271,7 @@
       },
       "27":{
          "title":"Rejected",
-         "volume":"",
+         "volume":"3",
          "groups":{
             "Sappho Scans":"/proxy/api/imgur/chapter/QBzlVJz/"
          },
@@ -279,7 +279,7 @@
       },
       "28":{
          "title":"Lunch",
-         "volume":"",
+         "volume":"3",
          "groups":{
             "Sappho Scans":"/proxy/api/imgur/chapter/qaJwBfy/"
          },
@@ -287,7 +287,7 @@
       },
       "29":{
          "title":"The  Beach!",
-         "volume":"",
+         "volume":"3",
          "groups":{
             "Sappho Scans":"/proxy/api/imgur/chapter/KKarvXM/"
          },
@@ -295,7 +295,7 @@
       },
       "30":{
          "title":"Change into Swimsuits",
-         "volume":"",
+         "volume":"3",
          "groups":{
             "Sappho Scans":"/proxy/api/imgur/chapter/WWb0kCz/"
          },
@@ -303,7 +303,7 @@
       },
       "31":{
          "title":"I Wanna See",
-         "volume":"",
+         "volume":"3",
          "groups":{
             "Sappho Scans":"/proxy/api/imgur/chapter/TeVEmPo/"
          },
@@ -311,7 +311,7 @@
       },
       "32":{
          "title":"Believe in Yourself",
-         "volume":"",
+         "volume":"3",
          "groups":{
             "Sappho Scans":"/proxy/api/imgur/chapter/AXDhm8B/"
          },
@@ -319,7 +319,7 @@
       },
       "33":{
          "title":"Time for a Walk ",
-         "volume":"",
+         "volume":"3",
          "groups":{
             "Sappho Scans":"/proxy/api/imgur/chapter/hDpscyq/"
          },
@@ -327,7 +327,7 @@
       },
       "34":{
          "title":"Confession",
-         "volume":"",
+         "volume":"3",
          "groups":{
             "Sappho Scans":"/proxy/api/imgur/chapter/xc3fkLd/"
          },
@@ -335,7 +335,7 @@
       },
       "35":{
          "title":"Success? Or Failure?",
-         "volume":"",
+         "volume":"3",
          "groups":{
             "Sappho Scans":"/proxy/api/imgur/chapter/LlZrgI3/"
          },
@@ -343,7 +343,7 @@
       },
       "36":{
          "title":"The Couple That Started with Getting Rejected in a Dream",
-         "volume":"",
+         "volume":"3",
          "groups":{
             "Sappho Scans":"/proxy/api/imgur/chapter/TGkBpgl/"
          },
@@ -351,7 +351,7 @@
       },
       "37":{
          "title":"Breakfast",
-         "volume":"",
+         "volume":"3",
          "groups":{
             "Sappho Scans":"/proxy/api/imgur/chapter/rG19xk6/"
          },
@@ -359,7 +359,7 @@
       },
       "38":{
          "title":"Debrief",
-         "volume":"",
+         "volume":"3",
          "groups":{
             "Sappho Scans":"/proxy/api/imgur/chapter/dFyIsnm/"
          },
@@ -367,11 +367,19 @@
       },
       "39":{
          "title":"Discussing Right Away",
-         "volume":"",
+         "volume":"3",
          "groups":{
             "Sappho Scans":"/proxy/api/imgur/chapter/OjTDsah/"
          },
          "last_updated":"1713228482"
+      },
+      "39":{
+         "title":"Volume 03 Extras",
+         "volume":"3",
+         "groups":{
+            "Sappho Scans":"/proxy/api/imgur/chapter/8jGns8o/"
+         },
+         "last_updated":"1718424015"
       }
    }
 }
