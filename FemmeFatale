@@ -1,0 +1,17 @@
+{
+   "title":"The Role of the Femme Fatale",
+   "description":"",
+   "artist":"Sasuke",
+   "author":"Sasuke",
+   "cover":"https://i.imgur.com/D3aE2wf.png",
+   "chapters":{
+      "01":{
+         "title":"Chapter 01",
+         "volume":"",
+         "groups":{
+            "Sappho Scans":"/proxy/api/imgur/chapter/Z9RrnUz/"
+         },
+         "last_updated":"1719359415"
+      }
+   }
+}
