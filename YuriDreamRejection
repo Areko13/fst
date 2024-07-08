@@ -380,6 +380,14 @@
             "Sappho Scans":"/proxy/api/imgur/chapter/8jGns8o/"
          },
          "last_updated":"1718424015"
+      },
+      "40":{
+         "title":"Morning Call",
+         "volume":"",
+         "groups":{
+            "Sappho Scans":"/proxy/api/imgur/chapter/bAgMoFo/"
+         },
+         "last_updated":"1720478644"
       }
    }
 }
