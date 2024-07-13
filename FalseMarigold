@@ -93,6 +93,14 @@
          },
          "last_updated":"1705722696"
       },
+      "7.5":{
+         "title":"Volume 02 Melonbooks Bonus",
+         "volume":"2",
+         "groups":{
+            "Sappho Scans":"/proxy/api/imgur/chapter/PsN0AC0/"
+         },
+         "last_updated":"1720837172"
+      }
       "08":{
          "title":"Chapter 08",
          "volume":"2",
@@ -124,6 +132,14 @@
             "Sappho Scans":"/proxy/api/imgur/chapter/IPTZrHR/"
          },
          "last_updated":"1720478895"
+      },
+      "10.2":{
+         "title":"Volume 02 Gamers Bonus",
+         "volume":"2",
+         "groups":{
+            "Sappho Scans":"/proxy/api/imgur/chapter/peaFYct/"
+         },
+         "last_updated":"1720837172"
       }
    }
 }
