@@ -388,6 +388,14 @@
             "Sappho Scans":"/proxy/api/imgur/chapter/bAgMoFo/"
          },
          "last_updated":"1720478644"
+      },
+      "41":{
+         "title":"Rendevous",
+         "volume":"",
+         "groups":{
+            "Sappho Scans":"/proxy/api/imgur/chapter/geVnGht/"
+         },
+         "last_updated":"1722297266"
       }
    }
 }
