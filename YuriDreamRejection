@@ -396,6 +396,14 @@
             "Sappho Scans":"/proxy/api/imgur/chapter/geVnGht/"
          },
          "last_updated":"1722297266"
+      },
+      "41.5":{
+         "title":"Series Status Announcement",
+         "volume":"",
+         "groups":{
+            "Sappho Scans":"/proxy/api/imgur/chapter/1ZdITPV/"
+         },
+         "last_updated":"1725293221"
       }
    }
 }
