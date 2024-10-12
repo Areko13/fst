@@ -404,6 +404,14 @@
             "Sappho Scans":"/proxy/api/imgur/chapter/1ZdITPV/"
          },
          "last_updated":"1725293221"
+      },
+      "42":{
+         "title":"The Power of Love",
+         "volume":"",
+         "groups":{
+            "Sappho Scans":"/proxy/api/imgur/chapter/dHLdnER/"
+         },
+         "last_updated":"1728752010"
       }
    }
 }
