@@ -381,6 +381,30 @@
          },
          "last_updated":"1718424015"
       },
+      "39.2":{
+         "title":"Volume 03 Melonbooks Extras",
+         "volume":"3",
+         "groups":{
+            "Sappho Scans":"/proxy/api/imgur/chapter/DuIaCem/"
+         },
+         "last_updated":"1730047419"
+      },
+      "39.3":{
+         "title":"Volume 03 Manga Oh Extras",
+         "volume":"3",
+         "groups":{
+            "Sappho Scans":"/proxy/api/imgur/chapter/f9rkQHN/"
+         },
+         "last_updated":"1730047419"
+      },
+      "39.4":{
+         "title":"Volume 03 Gamers Extras",
+         "volume":"3",
+         "groups":{
+            "Sappho Scans":"/proxy/api/imgur/chapter/yK6HBuL/"
+         },
+         "last_updated":"1730047419"
+      },
       "40":{
          "title":"Morning Call",
          "volume":"",
