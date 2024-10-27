@@ -85,6 +85,14 @@
          },
          "last_updated":"1699586898"
       },
+      "06.5":{
+         "title":"Volume 03 Melonbooks Extra",
+         "volume":"2",
+         "groups":{
+            "Sappho Scans":"/proxy/api/imgur/chapter/EyPjdt9/"
+         },
+         "last_updated":"1730046696"
+      },
       "07":{
          "title":"Chapter 07",
          "volume":"2",
@@ -141,6 +149,14 @@
          },
          "last_updated":"1720837172"
       },
+      "10.5":{
+         "title":"Volume 03 Gamers Extra",
+         "volume":"2",
+         "groups":{
+            "Sappho Scans":"/proxy/api/imgur/chapter/RmwsWXV/"
+         },
+         "last_updated":"1730046696"
+      },
       "11":{
          "title":"Chapter 11",
          "volume":"3",
@@ -180,6 +196,14 @@
             "Sappho Scans":"/proxy/api/imgur/chapter/0cAd9mN/"
          },
          "last_updated":"1727631972"
+      },
+      "15.1":{
+         "title":"Volume 03 Extras",
+         "volume":"3",
+         "groups":{
+            "Sappho Scans":"/proxy/api/imgur/chapter/OnWQZvK/"
+         },
+         "last_updated":"1730046696"
       }
    }
 }
