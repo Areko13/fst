@@ -52,6 +52,14 @@
             "Sappho Scans":"/proxy/api/imgur/chapter/ATlRVyA/"
          },
          "last_updated":"1720479129"
+      },
+      "07":{
+         "title":"FA Song by the Loom for the Autumn Storm",
+         "volume":"1",
+         "groups":{
+            "Sappho Scans":"/proxy/api/imgur/chapter/AR30Rfy/"
+         },
+         "last_updated":"1730690276"
       }
    }
 }
