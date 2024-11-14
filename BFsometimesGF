@@ -52,6 +52,14 @@
             "Sappho Scans":"/proxy/api/imgur/chapter/yqhUc7v/"
          },
          "last_updated":"1723590757"
+      },
+      "05.2":{
+         "title":"What I Like",
+         "volume":"2",
+         "groups":{
+            "Sappho Scans":"/proxy/api/imgur/chapter/IoDsnam/"
+         },
+         "last_updated":"1731562685"
       }
    }
 }
