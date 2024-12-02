@@ -436,6 +436,14 @@
             "Sappho Scans":"/proxy/api/imgur/chapter/dHLdnER/"
          },
          "last_updated":"1728752010"
+      },
+      "43":{
+         "title":"Karoke",
+         "volume":"",
+         "groups":{
+            "Sappho Scans":"/proxy/api/imgur/chapter/4hiyt2V/"
+         },
+         "last_updated":"1733098419"
       }
    }
 }
