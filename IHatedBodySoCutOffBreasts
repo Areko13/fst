@@ -36,6 +36,14 @@
             "Sappho Scans":"/proxy/api/imgur/chapter/sCtZhX8/"
          },
          "last_updated":"1733098607"
+      },
+      "04":{
+         "title":"Finally! Surgery!",
+         "volume":"1",
+         "groups":{
+            "Sappho Scans":"/proxy/api/imgur/chapter/3pcl903/"
+         },
+         "last_updated":"1734282605"
       }
    }
 }
