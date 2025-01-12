@@ -105,9 +105,17 @@
          "title":"",
          "volume":"04",
          "groups":{
-            "Sappho Scans & Danke fürs Lesen":"/proxy/api/imgur/chapter/e7HXLyk/"
+            "Sappho Scans & Kai":"/proxy/api/imgur/chapter/e7HXLyk/"
          },
          "last_updated":"1734053835"
+      },
+      "21":{
+         "title":"",
+         "volume":"04",
+         "groups":{
+            "Sappho Scans & Kai":"/proxy/api/imgur/chapter/vek2DCM/"
+         },
+         "last_updated":"1736712284"
       }
    }
 }
