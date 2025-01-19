@@ -109,11 +109,27 @@
          },
          "last_updated":"1734053835"
       },
-      "21":{
+      "21.1":{
          "title":"",
          "volume":"04",
          "groups":{
-            "Sappho Scans & Kai":"/proxy/api/imgur/chapter/BvnOaQa/"
+            "Sappho Scans & Kai":"/proxy/api/imgur/chapter/HcbHiQU/"
+         },
+         "last_updated":"1736712284"
+      },
+      "21.2":{
+         "title":"",
+         "volume":"04",
+         "groups":{
+            "Sappho Scans & Kai":"/proxy/api/imgur/chapter/kIYhn2a/"
+         },
+         "last_updated":"1736712284"
+      },
+      "21.3":{
+         "title":"",
+         "volume":"04",
+         "groups":{
+            "Sappho Scans & Kai":"/proxy/api/imgur/chapter/kIYhn2a/"
          },
          "last_updated":"1736712284"
       }
