@@ -132,6 +132,14 @@
             "Sappho Scans & Kai":"/proxy/api/imgur/chapter/kQ3j3Os/"
          },
          "last_updated":"1736712284"
+      },
+      "22":{
+         "title":"",
+         "volume":"04",
+         "groups":{
+            "Sappho Scans & Kai":"/proxy/api/imgur/chapter/GXzng3z/"
+         },
+         "last_updated":"1738371670"
       }
    }
 }
