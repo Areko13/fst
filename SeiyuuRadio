@@ -93,6 +93,14 @@
          },
          "last_updated":"1730046320"
       },
+      "21.5":{
+         "title":"Volume 04 Extras",
+         "volume":"3",
+         "groups":{
+            "Sappho Scans":"/proxy/api/imgur/chapter/aobOVPW/"
+         },
+         "last_updated":"1739732412"
+      },
       "22":{
          "title":"Chapter 22",
          "volume":"",
@@ -100,6 +108,14 @@
             "Sappho Scans":"/proxy/api/imgur/chapter/nFS0kI8/"
          },
          "last_updated":"1739336591"
+      },
+      "23":{
+         "title":"Chapter 23",
+         "volume":"",
+         "groups":{
+            "Sappho Scans":"/proxy/api/imgur/chapter/hzQQIAE/"
+         },
+         "last_updated":"1739732412"
       }
    }
 }
