@@ -60,6 +60,14 @@
             "Sappho Scans":"/proxy/api/imgur/chapter/oQMx6g1/"
          },
          "last_updated":"1739732412"
+      },
+      "07":{
+         "title":"Epilogue: Looking Back on the Operation",
+         "volume":"1",
+         "groups":{
+            "Sappho Scans":"/proxy/api/imgur/chapter/Kfrm8HI/"
+         },
+         "last_updated":"1740879230"
       }
    }
 }
