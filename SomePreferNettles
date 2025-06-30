@@ -52,6 +52,14 @@
             "Sappho Scans":"/proxy/api/imgur/chapter/c4d3zPT/"
          },
          "last_updated":"1748722494"
+      },
+      "07":{
+         "title":"Nothing to do with you.",
+         "volume":"1",
+         "groups":{
+            "Sappho Scans":"/proxy/api/imgur/chapter/fwmpfcE/"
+         },
+         "last_updated":"1751252089"
       }
    }
 }
