@@ -20,6 +20,14 @@
             "Sappho Scans":"/proxy/api/imgur/chapter/Telk93u/"
          },
          "last_updated":"1753066865"
+      },
+      "01":{
+         "title":"2nd Puff",
+         "volume":"1",
+         "groups":{
+            "Sappho Scans":"/proxy/api/imgur/chapter/oB3X95e/"
+         },
+         "last_updated":"1753153564"
       }
    }
 }
