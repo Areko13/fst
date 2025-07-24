@@ -36,6 +36,14 @@
             "Sappho Scans":"/proxy/api/imgur/chapter/Zz4Olz4/"
          },
          "last_updated":"1753243100"
+      },
+      "04":{
+         "title":"4th Puff",
+         "volume":"1",
+         "groups":{
+            "Sappho Scans":"/proxy/api/imgur/chapter/cjfRRiB/"
+         },
+         "last_updated":"1753329759"
       }
    }
 }
