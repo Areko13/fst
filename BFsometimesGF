@@ -60,6 +60,14 @@
             "Sappho Scans":"/proxy/api/imgur/chapter/GbeCYBv/"
          },
          "last_updated":"1731562685"
+      },
+      "06":{
+         "title":"The Boy Me and the Girl Me",
+         "volume":"2",
+         "groups":{
+            "Sappho Scans":"/proxy/api/imgur/chapter/O2vGMzF/"
+         },
+         "last_updated":"1753590592"
       }
    }
 }
