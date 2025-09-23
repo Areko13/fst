@@ -76,6 +76,14 @@
             "Sappho Scans":"/proxy/api/imgur/chapter/2Y33X32/"
          },
          "last_updated":"1748715622"
+      },
+      "10":{
+         "title":"Act 10",
+         "volume":"",
+         "groups":{
+            "Sappho Scans":"/proxy/api/imgur/chapter/cyG6wij/"
+         },
+         "last_updated":"1758641814"
       }
    }
 }
