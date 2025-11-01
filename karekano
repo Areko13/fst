@@ -159,7 +159,7 @@
       },
       "25":{
          "title":"",
-         "volume":"04",
+         "volume":"05",
          "groups":{
             "Sappho Scans & Kai":"/proxy/api/imgur/chapter/G2UGfyj/"
          },
@@ -167,11 +167,19 @@
       },
       "26":{
          "title":"",
-         "volume":"04",
+         "volume":"05",
          "groups":{
             "Sappho Scans & Kai":"/proxy/api/imgur/chapter/W2WLdoU/"
          },
          "last_updated":"1754865055"
+      },
+      "27":{
+         "title":"",
+         "volume":"05",
+         "groups":{
+            "Sappho Scans & Kai":"/proxy/api/imgur/chapter/PMS48RH/"
+         },
+         "last_updated":"1761973247"
       }
    }
 }
