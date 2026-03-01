@@ -1,17 +1,17 @@
 {
-   "title":"Even a Dog Might Stumble Upon a Princess",
-   "description":"I'm Shiori Inumata, a "loyal dog" editor who can't say no to writers. Today, I've been dragged to a cabaret club for an interview… As I take my seat, the number one hostess, Miyu, sits down across from me and her sweet, enchanting words and playful touch make my heart race.\n\nShe's so kind to someone as boring as me. I'm already falling for her… or so I thought. After a few more drinks than I'm used to, I make a catastrophic mistake. Bewilderingly, she asks, "Would you pay three million yen for a relationship with me? Platonic, romantic, or something else, it doesn't matter to me." What kind of arrangement is that?!",
-   "artist":"Kanno Fumi",
-   "author":"Kanno Fumi",
-   "cover":"https://i.imgur.com/sdpT1RE.png",
-   "chapters":{
-      "01":{
-         "title":"",
-         "volume":"",
-         "groups":{
-            "Sappho Scans":"/proxy/api/imgur/chapter/j6tqRqg/"
-         },
-         "last_updated":"1754753689"
-      }
-   }
+  "title": "Even a Dog Might Stumble Upon a Princess",
+  "description": "I'm Shiori Inumata, a \"loyaldog\" editor who can't say no to writers. Today, I've been dragged to a cabaret club for an interview… As I take my seat, the number one hostess, Miyu, sits down across from me and her sweet, enchanting words and playful touch make my heart race.\n\nShe's so kind to someone as boring as me. I'm already falling for her… or so I thought. After a few more drinks than I'm used to, I make a catastrophic mistake. Bewilderingly, she asks, \"Would you pay three million yen for a relationship with me? Platonic, romantic, or something else, it doesn't matter to me.\" What kind of arrangement is that?!",
+  "artist": "Kanno Fumi",
+  "author": "Kanno Fumi",
+  "cover": "https://i.imgur.com/sdpT1RE.png",
+  "chapters": {
+    "01": {
+      "title": "",
+      "volume": "",
+      "groups": {
+        "Sappho Scans": "/proxy/api/imgur/chapter/j6tqRqg/"
+      },
+      "last_updated": "1754753689"
+    }
+  }
 }
