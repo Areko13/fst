@@ -7,7 +7,7 @@
    "chapters":{
       "01":{
          "title":"",
-         "volume":"",
+         "volume":"1",
          "groups":{
             "Sappho Scans":"/proxy/api/imgur/chapter/j6tqRqg/"
          },
@@ -15,7 +15,7 @@
       },
       "02":{
          "title":"",
-         "volume":"",
+         "volume":"1",
          "groups":{
             "Sappho Scans":"/proxy/api/imgur/chapter/b300Kxj/"
          },
@@ -23,7 +23,7 @@
       },
       "03":{
          "title":"",
-         "volume":"",
+         "volume":"1",
          "groups":{
             "Sappho Scans":"/proxy/api/imgur/chapter/IZu6HZO/"
          },
@@ -31,11 +31,19 @@
       },
       "04":{
          "title":"",
-         "volume":"",
+         "volume":"1",
          "groups":{
             "Sappho Scans":"/proxy/api/imgur/chapter/q6uH7BI/"
          },
          "last_updated":"1771789740"
+      },
+      "04":{
+         "title":"",
+         "volume":"1",
+         "groups":{
+            "Sappho Scans":"/proxy/api/imgur/chapter/PKU5TeK/"
+         },
+         "last_updated":"1775423357"
       }
    }
 }
