@@ -6,10 +6,26 @@
   "cover": "https://i.imgur.com/DYQ5D38.png",
   "chapters": {
     "01": {
-      "title": "Would you be interested in getting into a relationship with me?",
+      "title": "Would You Be Interested in Getting Into a Relationship With Me?",
       "volume": "",
       "groups": {
         "Sappho Scans": "/proxy/api/imgur/chapter/3jTY02M/"
+      },
+      "last_updated": "1754753689"
+    },
+    "02": {
+      "title": "Returning the Favor",
+      "volume": "",
+      "groups": {
+        "Sappho Scans": "/proxy/api/imgur/chapter/cWQ1DSe/"
+      },
+      "last_updated": "1754753689"
+    },
+    "03": {
+      "title": "Punishment",
+      "volume": "",
+      "groups": {
+        "Sappho Scans": "/proxy/api/imgur/chapter/YjbVp8d/"
       },
       "last_updated": "1754753689"
     }
