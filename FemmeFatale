@@ -101,6 +101,14 @@
          },
          "last_updated":"1748715622"
       },
+      "09.5":{
+         "title":"Volume 02 Extras",
+         "volume":"",
+         "groups":{
+            "Sappho Scans":"/proxy/api/imgur/chapter/Ls5A8gN/"
+         },
+         "last_updated":"1778734814"
+      },
       "10":{
          "title":"Act 10",
          "volume":"",
@@ -140,6 +148,14 @@
             "Sappho Scans":"/proxy/api/imgur/chapter/vMmSupZ/"
          },
          "last_updated":"1759553411"
+      },
+      "14.5":{
+         "title":"Volume 03 Extras + Gamers Bonuses",
+         "volume":"",
+         "groups":{
+            "Sappho Scans":"/proxy/api/imgur/chapter/2gkWIly/"
+         },
+         "last_updated":"1778734814"
       }
    }
 }
