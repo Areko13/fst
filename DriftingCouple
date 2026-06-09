@@ -87,11 +87,19 @@
       },
       "7":{
          "title":"",
-         "volume":"",
+         "volume":"7th Puff",
          "groups":{
             "Sappho Scans":"/proxy/api/imgur/chapter/rPFEpms/"
          },
          "last_updated":"1755922915"
+      },
+      "8":{
+         "title":"",
+         "volume":"8th Puff",
+         "groups":{
+            "Sappho Scans":"/proxy/api/imgur/chapter/BYnRHAB/"
+         },
+         "last_updated":"1780976560"
       }
    }
 }
