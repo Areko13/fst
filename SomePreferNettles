@@ -60,6 +60,14 @@
             "Sappho Scans":"/proxy/api/imgur/chapter/fwmpfcE/"
          },
          "last_updated":"1751252089"
+      },
+      "08":{
+         "title":"Let's Look Together.",
+         "volume":"2",
+         "groups":{
+            "Sappho Scans":"/proxy/api/imgur/chapter/C6rQFqV/"
+         },
+         "last_updated":"1788229640"
       }
    }
 }
