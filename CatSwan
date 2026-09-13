@@ -47,7 +47,7 @@
       },
       "06":{
          "title":"",
-         "volume":"",
+         "volume":"1",
          "groups":{
             "Sappho Scans":"/proxy/api/imgur/chapter/Z4eq1RG/"
          },
@@ -68,6 +68,22 @@
             "Sappho Scans":"/proxy/api/imgur/chapter/xALgFD4/"
          },
          "last_updated":"1778734977"
+      },
+      "07":{
+         "title":"",
+         "volume":"2",
+         "groups":{
+            "Sappho Scans":"/proxy/api/imgur/chapter/P1vWWxy/"
+         },
+         "last_updated":"1789317680"
+      },
+      "08":{
+         "title":"",
+         "volume":"2",
+         "groups":{
+            "Sappho Scans":"/proxy/api/imgur/chapter/MnuhqS3/"
+         },
+         "last_updated":"1789317680"
       }
    }
 }
