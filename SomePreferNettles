@@ -68,6 +68,22 @@
             "Sappho Scans":"/proxy/api/imgur/chapter/C6rQFqV/"
          },
          "last_updated":"1788229640"
+      },
+      "09":{
+         "title":"I Can't Control Myself.",
+         "volume":"2",
+         "groups":{
+            "Sappho Scans":"/proxy/api/imgur/chapter/chD0QKP/"
+         },
+         "last_updated":"1794785386"
+      },
+      "10":{
+         "title":"But I Didn't Want to Bother You.",
+         "volume":"2",
+         "groups":{
+            "Sappho Scans":"/proxy/api/imgur/chapter/FB1OCaD/"
+         },
+         "last_updated":"1794785386"
       }
    }
 }
