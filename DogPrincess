@@ -7,7 +7,7 @@
   "chapters": {
     "01": {
       "title": "Would You Be Interested in Getting Into a Relationship With Me?",
-      "volume": "",
+      "volume": "1",
       "groups": {
         "Sappho Scans": "/proxy/api/imgur/chapter/3jTY02M/"
       },
@@ -15,7 +15,7 @@
     },
     "02": {
       "title": "Returning the Favor",
-      "volume": "",
+      "volume": "1",
       "groups": {
         "Sappho Scans": "/proxy/api/imgur/chapter/cWQ1DSe/"
       },
@@ -23,9 +23,33 @@
     },
     "03": {
       "title": "Punishment",
-      "volume": "",
+      "volume": "1",
       "groups": {
         "Sappho Scans": "/proxy/api/imgur/chapter/YjbVp8d/"
+      },
+      "last_updated": "1754753689"
+    },
+    "04": {
+      "title": "Grab and Smash",
+      "volume": "1",
+      "groups": {
+        "Sappho Scans": "/proxy/api/imgur/chapter/1eWj0Qc/"
+      },
+      "last_updated": "1754753689"
+    },
+    "05": {
+      "title": "If You Reach Out…",
+      "volume": "1",
+      "groups": {
+        "Sappho Scans": "/proxy/api/imgur/chapter/c0dCJRF/"
+      },
+      "last_updated": "1754753689"
+    },
+    "05.5": {
+      "title": "Volume 01 Extras",
+      "volume": "1",
+      "groups": {
+        "Sappho Scans": "/proxy/api/imgur/chapter/EeKXOiV/"
       },
       "last_updated": "1754753689"
     }
